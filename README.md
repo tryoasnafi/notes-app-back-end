@@ -1,3 +1,3 @@
-# Catgas
+# Notes Back End
 
-Catgas (Catatan Tugas) untuk Manajemen Tugas Kuliah
+Latihan membuat aplikasi back end sederhana
